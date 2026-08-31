@@ -1,6 +1,6 @@
 # iot-circuito-led
 
-Discente: Ícaro Caldeira Botelho
+Discente: Lucas Gabriel da Silva
 
 Docente: Amanda Paul Dull
 
