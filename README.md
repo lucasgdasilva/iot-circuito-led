@@ -4,8 +4,6 @@ Discente: Ícaro Caldeira Botelho
 
 Docente: Amanda Paul Dull
 
-Esse repositório contém um projeto de circuito que acende um LED.
-
 [![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/5ePeGW6mS2c-terrific-rottis)
 
 ## Enunciado: Vamos ligar o LED!
