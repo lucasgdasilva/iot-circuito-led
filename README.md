@@ -1,12 +1,12 @@
-# iot-exemplo-repositorio
+# iot-circuito-led
 
 Discente: Ícaro Caldeira Botelho
 
 Docente: Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
+Esse repositório contém um projeto de circuito que acende um LED.
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM)
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/5ePeGW6mS2c-terrific-rottis)
 
 ## Enunciado: Vamos ligar o LED!
 
